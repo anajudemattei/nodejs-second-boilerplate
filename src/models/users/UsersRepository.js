@@ -6,4 +6,7 @@ class UsersRepository {
     getAllUsers() {
         return this.users;
     }
-    }
+}
+
+export default UsersRepository;
+
